@@ -1,0 +1,43 @@
+---
+title: "Turner Lab"
+---
+
+# Research Areas  ![The brain is an ongoing puzzle!](Images/ChatGPT Image Jan 29, 2026, 04_55_18 PM.jpg){width="375"}
+
+Our research primarily uses neuroimaging techniques to study the brain mechanisms of psychiatric disorders, particularly schizophrenia and psychosis generally, and neuropsychiatric symptoms in neurological disorders.
+
+Basically we study the brain as it functions in humans, and the role it plays in making us who we are. Existing datasets hold many answers, so we analyze those as much as possible before collecting new datasets.
+
+------------------------------------------------------------------------
+
+# Publications
+
+Recent papers can be found on Google Scholar: [Jessica Turner's list](https://scholar.google.com/citations?hl=en&user=3O_Br8QAAAAJ){.uri}
+
+Social media: [Bluesky for Jessica Turner](https://bsky.app/profile/jessicaturnerphd.bsky.social)
+
+University link: [Department of Psychiatry and Behavioral Health Faculty Page](https://medicine.osu.edu/find-faculty/clinical/psychiatry-and-behavioral-health/jessica-turner-phd)
+
+------------------------------------------------------------------------
+
+# Current Projects 
+
+Cerebellar contributions to psychosis
+
+Cerebellum and aging
+
+Analyses to Reveal Trajectories and Early Markers of Imminent Shifts in Suicidal States [ARTEMIS study website](artemis-study.org)
+
+Enhancing Neuroimaging Genetics through Meta/Mega Analysis (ENIGMA) Schizophrenia (for more information see the ENIGMA working groups website: [ENIGMA Working Groups](https://enigma.ini.usc.edu/ongoing/)
+
+------------------------------------------------------------------------
+
+# Lab Personnel
+
+Spring, 2025
+
+![Lab personnel, Spring 2025](Images/labphoto2025.jpg)
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
