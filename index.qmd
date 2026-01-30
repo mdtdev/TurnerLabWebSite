@@ -1,8 +1,12 @@
 ---
-title: "Turner Lab"
+title: "Turner Lab" 
 ---
 
-# Research Areas  ![The brain is an ongoing puzzle!](Images/ChatGPT Image Jan 29, 2026, 04_55_18 PM.jpg){width="375"}
+![](Images/Lab Logo/lab_logo_text.png){width="387"}
+
+---
+
+# Research Areas ![The brain is an ongoing puzzle!](Images/ChatGPT%20Image%20Jan%2029,%202026,%2004_55_18%20PM.jpg){width="375"}
 
 Our research primarily uses neuroimaging techniques to study the brain mechanisms of psychiatric disorders, particularly schizophrenia and psychosis generally, and neuropsychiatric symptoms in neurological disorders.
 
@@ -10,7 +14,7 @@ Basically we study the brain as it functions in humans, and the role it plays in
 
 ------------------------------------------------------------------------
 
-# Publications
+# Publications![](Images/BrainReadingGemini.jpg){width="250"}
 
 Recent papers can be found on Google Scholar: [Jessica Turner's list](https://scholar.google.com/citations?hl=en&user=3O_Br8QAAAAJ){.uri}
 
@@ -20,7 +24,7 @@ University link: [Department of Psychiatry and Behavioral Health Faculty Page](h
 
 ------------------------------------------------------------------------
 
-# Current Projects 
+# Current Projects
 
 Cerebellar contributions to psychosis
 
