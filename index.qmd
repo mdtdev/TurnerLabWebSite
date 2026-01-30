@@ -14,7 +14,7 @@ Basically we study the brain as it functions in humans, and the role it plays in
 
 ------------------------------------------------------------------------
 
-# Publications![](Images/BrainReadingGemini.jpg){width="250"}
+# ![](Images/BrainReadingGemini.jpg){width="250"}  Publications
 
 Recent papers can be found on Google Scholar: [Jessica Turner's list](https://scholar.google.com/citations?hl=en&user=3O_Br8QAAAAJ){.uri}
 
