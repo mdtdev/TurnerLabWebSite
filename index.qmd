@@ -2,9 +2,9 @@
 title: "Turner Lab" 
 ---
 
-![](Images/Lab Logo/lab_logo_text.png){width="387"}
+![](Images/Lab%20Logo/lab_logo_text.png){width="387"}
 
----
+------------------------------------------------------------------------
 
 # Research Areas ![The brain is an ongoing puzzle!](Images/ChatGPT%20Image%20Jan%2029,%202026,%2004_55_18%20PM.jpg){width="375"}
 
@@ -14,7 +14,7 @@ Basically we study the brain as it functions in humans, and the role it plays in
 
 ------------------------------------------------------------------------
 
-# ![](Images/BrainReadingGemini.jpg){width="250"}  Publications
+# ![](Images/BrainReadingGemini.jpg){width="250"} Publications
 
 Recent papers can be found on Google Scholar: [Jessica Turner's list](https://scholar.google.com/citations?hl=en&user=3O_Br8QAAAAJ){.uri}
 
