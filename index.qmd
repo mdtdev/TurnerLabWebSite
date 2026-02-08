@@ -41,7 +41,3 @@ Enhancing Neuroimaging Genetics through Meta/Mega Analysis (ENIGMA) Schizophreni
 Spring, 2025
 
 ![Lab personnel, Spring 2025](Images/labphoto2025.jpg)
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
